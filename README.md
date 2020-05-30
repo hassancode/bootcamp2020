@@ -1,2 +1,4 @@
 # bootcamp2020
-this is PIAIC bootcamp - May 30
+Baisc Website for Bootcamp Practice
+
+# ! and tab will generate html template
